@@ -1,11 +1,10 @@
----
-layout: default
-title: Searchbox with Reset Icon
-description: Search textbox that enables after 3 charaters. Plus it has icons to search and clear the textbox.
----
+# Searchbox with Reset Icon
+
+Search textbox that enables after 3 charaters. Plus it has icons to search and clear the textbox.
+
 ## Demo
 
-<script async src="//jsfiddle.net/kutec/y97zcghz/embed/js,html,result/"></script>
+<script async src="//jsfiddle.net/kutec/y97zcghz/embed/result/"></script>
 
 
 ## Angular Controller
