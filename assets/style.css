@@ -1,2 +1,2 @@
 body{font-size: 14px; }
-header, footer, #banner{ display: none; }
+header, footer, #banner{ display: none !important; }
