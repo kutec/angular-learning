@@ -1,3 +1,7 @@
+---
+layout: default
+title: Searchbox with Reset Icon
+---
 ## Demo
 
 <script async src="//jsfiddle.net/kutec/y97zcghz/embed/js,html,result/"></script>
