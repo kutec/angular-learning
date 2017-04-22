@@ -5,7 +5,7 @@ description: Search textbox that enables after 3 charaters. Plus it has icons to
 
 # Searchbox with Reset Icon
 
-**Covers**:
+**Requirements**:
 1. To enable the *search button*, textbox must have more than 3 charaters
 2. Once you passed #1, search button will be enabled to search
 3. Once you click on *search button*, the same will be replaced with *reset button/icon*
