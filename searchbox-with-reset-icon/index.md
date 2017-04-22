@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AngularJs Snippets
-description: By Kushal Jayswal
+title: Searchbox with Reset Icon
+description: Search textbox that enables after 3 charaters. Plus it has icons to search and clear the textbox.
 ---
 
 # Searchbox with Reset Icon
