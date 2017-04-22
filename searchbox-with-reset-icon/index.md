@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Searchbox with Reset Icon
 description: Search textbox that enables after 3 charaters. Plus it has icons to search and clear the textbox.
 ---
